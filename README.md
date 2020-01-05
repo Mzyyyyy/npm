@@ -1,2 +1,2 @@
 # npm
-This is a npm packege.
+This is a time format function.
